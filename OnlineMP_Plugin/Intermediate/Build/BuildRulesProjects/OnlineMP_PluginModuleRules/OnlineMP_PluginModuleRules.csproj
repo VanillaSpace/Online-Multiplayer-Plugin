@@ -14,6 +14,7 @@
     <ProjectReference Include="..\..\..\..\..\..\..\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj"><Private>false</Private></ProjectReference>
   </ItemGroup>
   <ItemGroup>
+  <Compile Include="..\..\..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\MultiplayerSessions.Build.cs"><Link>Plugins\MultiplayerSessions\Source\MultiplayerSessions\MultiplayerSessions.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\OnlineMP_Plugin.Target.cs"><Link>Source\OnlineMP_Plugin.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\OnlineMP_PluginEditor.Target.cs"><Link>Source\OnlineMP_PluginEditor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\OnlineMP_Plugin\OnlineMP_Plugin.Build.cs"><Link>Source\OnlineMP_Plugin\OnlineMP_Plugin.Build.cs</Link></Compile>

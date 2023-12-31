@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Source\\OnlineMP_Plugin\\OnlineMP_Plugin.Build.cs",
+		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
 		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Source\\OnlineMP_Plugin.Target.cs",
 		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Source\\OnlineMP_PluginEditor.Target.cs"
 	],
