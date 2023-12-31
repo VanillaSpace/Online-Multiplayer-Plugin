@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineMP_Plugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\OnlineMP_PluginEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\OnlineMP_Plugin.init.gen.cpp.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\OnlineMP_PluginCharacter.gen.cpp.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\OnlineMP_PluginGameMode.gen.cpp.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\OnlineMP_Plugin.cpp.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\OnlineMP_PluginCharacter.cpp.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\OnlineMP_PluginGameMode.cpp.obj"
+"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\Default.rc2.res"
+/OUT:"D:\PersonalProject\Online Multiplayer Plugin\OnlineMP_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineMP_Plugin\UnrealEditor-OnlineMP_Plugin.lib"

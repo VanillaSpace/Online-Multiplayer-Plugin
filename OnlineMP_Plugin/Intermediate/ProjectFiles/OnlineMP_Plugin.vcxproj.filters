@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OnlineMP_Plugin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OnlineMP_Plugin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OnlineMP_PluginEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OnlineMP_Plugin">
+      <UniqueIdentifier>{A9EB504C-FAD1-3C6E-8081-BB625CFA897F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OnlineMP_Plugin\OnlineMP_Plugin.Build.cs">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OnlineMP_Plugin\OnlineMP_Plugin.cpp">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OnlineMP_Plugin\OnlineMP_Plugin.h">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OnlineMP_Plugin\OnlineMP_PluginCharacter.cpp">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OnlineMP_Plugin\OnlineMP_PluginCharacter.h">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OnlineMP_Plugin\OnlineMP_PluginGameMode.cpp">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OnlineMP_Plugin\OnlineMP_PluginGameMode.h">
+      <Filter>Source\OnlineMP_Plugin</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Source\\OnlineMP_Plugin\\OnlineMP_Plugin.Build.cs",
+		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Source\\OnlineMP_Plugin.Target.cs",
+		"D:\\PersonalProject\\Online Multiplayer Plugin\\OnlineMP_Plugin\\Source\\OnlineMP_PluginEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

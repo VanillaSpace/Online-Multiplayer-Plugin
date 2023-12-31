@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OnlineMP_Plugin",
+			"Path": "..\\Source\\OnlineMP_Plugin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OnlineMP_PluginEditor",
+			"Path": "..\\Source\\OnlineMP_PluginEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
